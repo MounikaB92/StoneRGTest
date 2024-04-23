@@ -87,7 +87,7 @@ public:
 
 };
 
-void testDooublyLinkedList() {
+void testDoublyLinkedList() {
 
     DoublyLinkedList list;
 
@@ -120,6 +120,6 @@ void testDooublyLinkedList() {
 }
 
 int main() {
-    testDooublyLinkedList();
+    testDoublyLinkedList();
     return 0;
 }
